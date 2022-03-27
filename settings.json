@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "keyboard.touchbar.enabled": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.copyOnSelection": true,
+    "editor.fontSize": 13,
+    "debug.console.fontSize": 13,
+    "terminal.integrated.fontSize": 13,
+    "git.autofetch": true
+}
