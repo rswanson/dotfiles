@@ -40,6 +40,7 @@ cask 'spotify'
 cask 'iterm2'
 cask 'whatsapp'
 cask 'zoom'
+cask 'ledger-live'
 
 # Quicklook
 cask 'qlmarkdown'
