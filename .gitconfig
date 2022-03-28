@@ -5,3 +5,5 @@
 # Please adapt and uncomment the following lines:
 #	name = Ryan Swanson
 #	email = ryan.s.swanson@gmail.com
+[init]
+	defaultBranch = main

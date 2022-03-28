@@ -1,9 +1,12 @@
 REPO=~/git/dotfiles
 
+# ohmyzsh install 
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+# homebrew install
 NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+#symlinkcity 
 ln -s $REPO/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ln -s $REPO/.profile ~/.profile
 ln -s $REPO/.tmux.conf ~/.tmux.conf

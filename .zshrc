@@ -105,3 +105,8 @@ export PATH="$PATH:/Users/swanpro/Library/Python/3.9/bin"
 
 # Created by `pipx` on 2022-03-27 23:43:37
 export PATH="$PATH:/Users/swanpro/.local/bin"
+
+# nvm setup 
+export NVM_DIR="$HOME/.nvm"
+[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+[ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
