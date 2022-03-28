@@ -19,6 +19,7 @@ brew 'httpie'
 brew 'jq' # Used for spatie/visit
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn' # Needed to install fonts
+brew 'solidity'
 
 # Development tools
 brew 'nginx'
