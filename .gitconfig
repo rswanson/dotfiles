@@ -7,3 +7,5 @@
 #	email = ryan.s.swanson@gmail.com
 [init]
 	defaultBranch = main
+[advice]
+	addIgnoredFile = false
