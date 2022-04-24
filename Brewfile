@@ -20,6 +20,7 @@ brew 'jq' # Used for spatie/visit
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn' # Needed to install fonts
 brew 'solidity'
+brew 'transmission'
 
 # Development tools
 brew 'nginx'
@@ -43,6 +44,7 @@ cask 'iterm2'
 cask 'whatsapp'
 cask 'zoom'
 cask 'ledger-live'
+cask 'transmission'
 
 # Quicklook
 cask 'qlmarkdown'
