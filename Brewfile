@@ -31,7 +31,6 @@ brew 'yarn'
 
 # Apps
 cask '1password'
-cask 'caffeine'
 cask 'discord'
 cask 'docker'
 cask 'firefox'
@@ -46,14 +45,6 @@ cask 'whatsapp'
 cask 'zoom'
 cask 'ledger-live'
 cask 'transmission'
-
-# Quicklook
-cask 'qlmarkdown'
-cask 'quicklook-json'
-cask 'qlimagesize'
-cask 'qlstephen'
-cask 'qlcolorcode'
-cask 'qlmarkdown'
 
 # Fonts
 cask 'font-lato'

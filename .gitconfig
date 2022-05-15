@@ -9,3 +9,5 @@
 	defaultBranch = main
 [advice]
 	addIgnoredFile = false
+[pull]
+	ff = only
