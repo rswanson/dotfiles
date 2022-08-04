@@ -1,13 +1,8 @@
 # This is Git's per-user configuration file.
 [user]
 	name = Ryan Swanson
-	email = ryan.s.swanson@gmail.com
-# Please adapt and uncomment the following lines:
-#	name = Ryan Swanson
-#	email = ryan.s.swanson@gmail.com
+	email = ryan@nomad.xyz
 [init]
 	defaultBranch = main
 [advice]
 	addIgnoredFile = false
-[pull]
-	ff = only
