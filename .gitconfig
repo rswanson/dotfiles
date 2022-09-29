@@ -1,8 +1,15 @@
 # This is Git's per-user configuration file.
 [user]
 	name = Ryan Swanson
-	email = ryan@nomad.xyz
+  email = ryan@nomad.xyz
+  signingkey = 9F7F20008706BA29
 [init]
 	defaultBranch = main
 [advice]
 	addIgnoredFile = false
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
+[push]
+	autoSetupRemote = true

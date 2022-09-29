@@ -22,3 +22,4 @@ ln -s $REPO/.zshrc ~/.zshrc
 cp $REPO/swan.zsh-theme ~/.oh-my-zsh/themes/swan.zsh-theme
 
 brew bundle --file $REPO/Brewfile
+
