@@ -2,14 +2,14 @@
 [user]
 	name = Ryan Swanson
   email = ryan@nomad.xyz
-  signingkey = 9F7F20008706BA29
+	signingkey = C07E7909F8045DAD
 [init]
 	defaultBranch = main
 [advice]
 	addIgnoredFile = false
-[commit]
-	gpgsign = true
-[gpg]
-	program = gpg
+[pull]
+	ff = only
 [push]
 	autoSetupRemote = true
+[commit]
+	gpgsign = true
