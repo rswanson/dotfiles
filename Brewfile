@@ -39,10 +39,10 @@ cask 'brave-browser'
 cask 'slack'
 cask 'telegram-desktop'
 cask 'visual-studio-code'
-cask 'iterm2'
 cask 'whatsapp'
 cask 'zoom'
 cask 'ledger-live'
+cask 'warp'
 
 # Fonts
 cask 'font-lato'
