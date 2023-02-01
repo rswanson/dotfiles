@@ -22,3 +22,5 @@ This is Swanny's dotfile repo, hopefully a reasonably sane starting point for fo
 ```bash
 ./install.sh 
 ```
+
+
