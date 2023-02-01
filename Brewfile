@@ -6,12 +6,10 @@ tap 'homebrew/bundle'
 tap 'ethereum/ethereum'
 
 # Binaries
-brew 'awscli'
 brew 'bash' 
 brew 'bat' 
 brew 'coreutils' 
 brew 'fd'
-brew 'gh'
 brew 'git'
 brew 'gnupg'
 brew 'grep'
@@ -19,32 +17,32 @@ brew 'httpie'
 brew 'jq' # Used for spatie/visit
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn' # Needed to install fonts
-brew 'solidity'
-brew 'transmission'
-brew 'sonarr'
 
 # Development tools
-brew 'nginx'
+brew 'gh'
+brew 'awscli'
+brew 'nvm'
+brew 'solidity'
+brew 'k9s'
+brew 'pre-commit'
+brew 'go'
+brew 'tilt'
 brew 'node'
-brew 'redis'
 brew 'yarn'
 
 # Apps
 cask '1password'
 cask 'discord'
-cask 'docker'
+# cask 'docker'
 cask 'firefox'
 cask 'brave-browser'
-cask 'insomnia'
 cask 'slack'
 cask 'telegram-desktop'
 cask 'visual-studio-code'
-cask 'spotify'
 cask 'iterm2'
 cask 'whatsapp'
 cask 'zoom'
 cask 'ledger-live'
-cask 'transmission'
 
 # Fonts
 cask 'font-lato'
