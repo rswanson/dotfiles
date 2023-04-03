@@ -15,5 +15,9 @@
     "workbench.colorTheme": "Solarized Dark",
     "window.autoDetectColorScheme": true,
     "workbench.iconTheme": "material-icon-theme",
-    "redhat.telemetry.enabled": true
+    "redhat.telemetry.enabled": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.inlineSuggest.enabled": true
 }
